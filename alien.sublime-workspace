@@ -1,0 +1,565 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"game",
+				"game_functions\tmodule"
+			],
+			[
+				"load",
+				"load_high_score\tfunction"
+			],
+			[
+				"prep",
+				"prep_high_score"
+			],
+			[
+				"high",
+				"high_score"
+			],
+			[
+				"FILE",
+				"FileNotFoundError\tclass"
+			],
+			[
+				"high_scor",
+				"high_score_rect"
+			],
+			[
+				"high_score",
+				"high_score_image"
+			],
+			[
+				"score",
+				"score_rect"
+			],
+			[
+				"screen",
+				"screen_rect"
+			],
+			[
+				"hih",
+				"high_score_rect"
+			],
+			[
+				"hg",
+				"high_score"
+			],
+			[
+				"alien",
+				"alien_points\tstatement"
+			],
+			[
+				"ale",
+				"alien_points\tstatement"
+			],
+			[
+				"lve",
+				"level_change\tstatement"
+			],
+			[
+				"gam",
+				"game_active\tstatement"
+			],
+			[
+				"leve",
+				"level_change\tstatement"
+			],
+			[
+				"chan",
+				"change_level"
+			],
+			[
+				"moving",
+				"moving_down\tstatement"
+			],
+			[
+				"center",
+				"center_ship\tfunction"
+			],
+			[
+				"bullet",
+				"bullet_speed_factor"
+			],
+			[
+				"spee",
+				"speedup_scale"
+			],
+			[
+				"ship",
+				"ship_speed_factor"
+			],
+			[
+				"set_",
+				"set_visible\tfunction"
+			],
+			[
+				"se",
+				"set_visible\tfunction"
+			],
+			[
+				"mouse",
+				"mouse_y\tparam"
+			],
+			[
+				"cen",
+				"center_ship"
+			],
+			[
+				"coll",
+				"collidepoint\tfunction"
+			],
+			[
+				"play",
+				"play_button"
+			],
+			[
+				"dr",
+				"draw_button\tfunction"
+			],
+			[
+				"button",
+				"button_color\tstatement"
+			],
+			[
+				"butt",
+				"button_color\tstatement"
+			],
+			[
+				"text",
+				"text_color\tstatement"
+			],
+			[
+				"check",
+				"check_aliens_bottom\tfunction"
+			],
+			[
+				"scre",
+				"screen_rect\tstatement"
+			],
+			[
+				"sta",
+				"stats\tparam"
+			],
+			[
+				"spritecoll",
+				"spritecollideany\tfunction"
+			],
+			[
+				"chec",
+				"check_bullet_alien_collision\tfunction"
+			],
+			[
+				"create",
+				"create_fleet\tfunction"
+			],
+			[
+				"get",
+				"get_number_rows\tfunction"
+			],
+			[
+				"bule",
+				"bullets"
+			],
+			[
+				"bulle",
+				"bullets\tstatement"
+			],
+			[
+				"c",
+				"centerx"
+			],
+			[
+				"mo",
+				"moving_right\tstatement"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"pi",
+				"pi_string"
+			],
+			[
+				"file",
+				"file_object"
+			],
+			[
+				"baskin",
+				"baskin_robins"
+			],
+			[
+				"bask",
+				"baskin_robins"
+			],
+			[
+				"ice",
+				"ice_cream_stand_name"
+			],
+			[
+				"punjbai",
+				"punjabi_dhaba"
+			],
+			[
+				"punjabi",
+				"punjabi_dhaba"
+			],
+			[
+				"res",
+				"restaurant_name"
+			],
+			[
+				"de",
+				"describe_restaurant"
+			],
+			[
+				"punja",
+				"punjabi_dhaba"
+			],
+			[
+				"hex",
+				"hex_color"
+			],
+			[
+				"con",
+				"convert_for_hex"
+			],
+			[
+				"color",
+				"color3"
+			],
+			[
+				"a",
+				"album_name"
+			],
+			[
+				"artist",
+				"artist_name"
+			],
+			[
+				"artis",
+				"artist_name"
+			],
+			[
+				"chicken",
+				"chicken_orders"
+			],
+			[
+				"chick",
+				"chicken_orders"
+			],
+			[
+				"chcike",
+				"chicken_orders"
+			],
+			[
+				"chicke",
+				"chicken_orders"
+			],
+			[
+				"dic",
+				"dict_bhokal"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"materila",
+				"Material Theme: Activate theme"
+			],
+			[
+				"materialize",
+				"Activate Materialize Theme"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"sublimelint:",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+			"Scripts\\activate",
+			"ls",
+			"2",
+			"Scripts",
+			"python",
+			"Scripts\\activate",
+			"ll_env/Scripts/activate"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Python/Projects/alien_invasion/bullet.py",
+		"/D/Python/Projects/alien_invasion/button.py",
+		"/D/Python/Projects/alien_invasion/alien.py",
+		"/D/Python/Projects/alien_invasion/hj.py",
+		"/D/Python/Python Crash Course/Chap_9 Classes/restaurant.py",
+		"/D/Python/Python Crash Course/Chap_9 Classes/ice_cream_stand.py",
+		"/C/Users/risha/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/risha/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/risha/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/risha/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/D/Python/Python Crash Course/Chap_11 Testing/test_album.py",
+		"/D/Python/Python Crash Course/Chap_9 Classes/res_ex.py",
+		"/D/Python/Python Crash Course/Chap_10 Files and Exceptions/read.py",
+		"/D/Python/Python Crash Course/Chap_7 While loop/chicken_order.py",
+		"/C/Users/risha/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/risha/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/risha/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLint.sublime-settings",
+		"/D/Python/Chap_11 Testing/employee.py",
+		"/D/Python/Chap_11 Testing/test_employee.py",
+		"/D/Python/Chap_8 Functions/album.py",
+		"/D/Python/Chap_11 Testing/test_album.py",
+		"/D/Python/Chap_8 Functions/test_album.py",
+		"/D/Python/Chap_10 Files and Exceptions/file_reader.py",
+		"/D/Python/Chap_10 Files and Exceptions/read.py",
+		"/D/Python/Chap_10 Files and Exceptions/numbers.json",
+		"/D/Python/Chap_10 Files and Exceptions/json_read.py",
+		"/D/Python/Chap_10 Files and Exceptions/working_json.py",
+		"/D/Python/Chap_10 Files and Exceptions/abc.json",
+		"/D/Python/Chap_10 Files and Exceptions/json.py",
+		"/D/Python/Chap_10 Files and Exceptions/learning_python_reader.py",
+		"/D/Python/Chap_10 Files and Exceptions/n.py",
+		"/D/Python/Chap_10 Files and Exceptions/learning_python.txt",
+		"/D/Python/Chap_10 Files and Exceptions/pi_digits.txt",
+		"/D/Python/Chap_9 Classes/ice_cream_stand.py",
+		"/D/Python/Chap_9 Classes/res_ex.py",
+		"/D/Python/Chap_9 Classes/restaurant.py",
+		"/D/Python/Chap_9 Classes/Die.py",
+		"/D/Python/Chap_9 Classes/Restaurant.py",
+		"/D/Python/Chap_9 Classes/IceCreamStand.py",
+		"/D/Python/Chap_9 Classes/X.py",
+		"/D/Python/Chap_9 Classes/a.py",
+		"/D/Python/Chap_8 Functions/Restaurant.py",
+		"/D/Python/Hex_Color_Code.py",
+		"/D/Python/Chap_3  List/list_organise.py",
+		"/D/Python/Chap_3  List/list.py",
+		"/D/Python/name.py",
+		"/D/Python/Chap_7 While loop/chicken_order.py",
+		"/D/Python/subfactorial.py",
+		"/D/Python/Chap_3  List/hello_admin.py",
+		"/D/Python/Chap_3  List/invite.py",
+		"/D/Python/Chap_3  List/loops.py",
+		"/D/Python/Chap_3  List/ordinal.py",
+		"/D/Python/Chap_6 Dictionary/places (list in a dictionary).py",
+		"/D/Python/Chap_6 Dictionary/person (dictionary in a list).py",
+		"/D/Python/Chap_6 Dictionary/cities (dictionary in a dictionary).py",
+		"/D/Python/Chap_6 Dictionary/person.py",
+		"/D/Python/Chap_6 Dictionary/places.py",
+		"/D/Python/name_title.py"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alien.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
